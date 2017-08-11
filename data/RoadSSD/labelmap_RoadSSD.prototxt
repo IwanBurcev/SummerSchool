@@ -1,0 +1,220 @@
+item {
+  name: "0"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "1"
+  label: 1
+  display_name: "0"
+}
+item {
+  name: "2"
+  label: 2
+  display_name: "1"
+}
+item {
+  name: "3"
+  label: 3
+  display_name: "2"
+}
+item {
+  name: "4"
+  label: 4
+  display_name: "3"
+}
+item {
+  name: "5"
+  label: 5
+  display_name: "4"
+}
+item {
+  name: "6"
+  label: 6
+  display_name: "5"
+}
+item {
+  name: "7"
+  label: 7
+  display_name: "6"
+}
+item {
+  name: "8"
+  label: 8
+  display_name: "7"
+}
+item {
+  name: "9"
+  label: 9
+  display_name: "8"
+}
+item {
+  name: "10"
+  label: 10
+  display_name: "9"
+}
+item {
+  name: "11"
+  label: 11
+  display_name: "10"
+}
+item {
+  name: "12"
+  label: 12
+  display_name: "11"
+}
+item {
+  name: "13"
+  label: 13
+  display_name: "12"
+}
+item {
+  name: "14"
+  label: 14
+  display_name: "13"
+}
+item {
+  name: "15"
+  label: 15
+  display_name: "14"
+}
+item {
+  name: "16"
+  label: 16
+  display_name: "15"
+}
+item {
+  name: "17"
+  label: 17
+  display_name: "16"
+}
+item {
+  name: "18"
+  label: 18
+  display_name: "17"
+}
+item {
+  name: "19"
+  label: 19
+  display_name: "18"
+}
+item {
+  name: "20"
+  label: 20
+  display_name: "19"
+}
+item {
+  name: "21"
+  label: 21
+  display_name: "20"
+}
+item {
+  name: "22"
+  label: 22
+  display_name: "21"
+}
+item {
+  name: "23"
+  label: 23
+  display_name: "22"
+}
+item {
+  name: "24"
+  label: 24
+  display_name: "23"
+}
+item {
+  name: "25"
+  label: 25
+  display_name: "24"
+}
+item {
+  name: "26"
+  label: 26
+  display_name: "25"
+}
+item {
+  name: "27"
+  label: 27
+  display_name: "26"
+}
+item {
+  name: "28"
+  label: 28
+  display_name: "27"
+}
+item {
+  name: "29"
+  label: 29
+  display_name: "28"
+}
+item {
+  name: "30"
+  label: 30
+  display_name: "29"
+}
+item {
+  name: "31"
+  label: 31
+  display_name: "30"
+}
+item {
+  name: "32"
+  label: 32
+  display_name: "31"
+}
+item {
+  name: "33"
+  label: 33
+  display_name: "32"
+}
+item {
+  name: "34"
+  label: 34
+  display_name: "33"
+}
+item {
+  name: "35"
+  label: 35
+  display_name: "34"
+}
+item {
+  name: "36"
+  label: 36
+  display_name: "35"
+}
+item {
+  name: "37"
+  label: 37
+  display_name: "36"
+}
+item {
+  name: "38"
+  label: 38
+  display_name: "37"
+}
+item {
+  name: "39"
+  label: 39
+  display_name: "38"
+}
+item {
+  name: "40"
+  label: 40
+  display_name: "39"
+}
+item {
+  name: "41"
+  label: 41
+  display_name: "40"
+}
+item {
+  name: "42"
+  label: 42
+  display_name: "41"
+}
+item {
+  name: "43"
+  label: 43
+  display_name: "42"
+}
